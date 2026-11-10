@@ -1,0 +1,30 @@
+{
+  "validation_status": "PASS",
+  "pilot_research_ready": false,
+  "training_crops": 300,
+  "validation_crops": 60,
+  "test_crops": 60,
+  "clients": 4,
+  "labeled_training_crops": 30,
+  "mean_jsd": {
+    "iid": {
+      "class_jsd": 0.02583614598424271,
+      "environment_jsd": 0.04698396684067482
+    },
+    "environment_non_iid": {
+      "class_jsd": 0.05942101089889501,
+      "environment_jsd": 0.5302893595463976
+    }
+  },
+  "errors": [],
+  "warnings": [
+    "Only 1 test examples for class 'bike'",
+    "Only 3 test examples for class 'bus'",
+    "Only 1 test examples for class 'motor'",
+    "Only 2 test examples for class 'rider'",
+    "Only 7 test examples for class 'traffic light'",
+    "Only 8 test examples for class 'truck'",
+    "Pilot dataset is too small for final research conclusions.",
+    "Very small labeled training budget."
+  ]
+}

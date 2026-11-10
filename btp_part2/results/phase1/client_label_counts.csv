@@ -1,0 +1,73 @@
+strategy,client_id,class,labeled_count
+iid,client_1,bike,0
+iid,client_1,bus,1
+iid,client_1,car,2
+iid,client_1,motor,0
+iid,client_1,person,2
+iid,client_1,rider,0
+iid,client_1,traffic light,2
+iid,client_1,traffic sign,2
+iid,client_1,truck,1
+iid,client_2,bike,0
+iid,client_2,bus,1
+iid,client_2,car,0
+iid,client_2,motor,1
+iid,client_2,person,1
+iid,client_2,rider,0
+iid,client_2,traffic light,0
+iid,client_2,traffic sign,0
+iid,client_2,truck,1
+iid,client_3,bike,1
+iid,client_3,bus,1
+iid,client_3,car,3
+iid,client_3,motor,0
+iid,client_3,person,1
+iid,client_3,rider,1
+iid,client_3,traffic light,1
+iid,client_3,traffic sign,2
+iid,client_3,truck,1
+iid,client_4,bike,2
+iid,client_4,bus,0
+iid,client_4,car,0
+iid,client_4,motor,0
+iid,client_4,person,0
+iid,client_4,rider,0
+iid,client_4,traffic light,2
+iid,client_4,traffic sign,1
+iid,client_4,truck,0
+environment_non_iid,client_1,bike,0
+environment_non_iid,client_1,bus,1
+environment_non_iid,client_1,car,1
+environment_non_iid,client_1,motor,0
+environment_non_iid,client_1,person,0
+environment_non_iid,client_1,rider,1
+environment_non_iid,client_1,traffic light,1
+environment_non_iid,client_1,traffic sign,1
+environment_non_iid,client_1,truck,1
+environment_non_iid,client_2,bike,0
+environment_non_iid,client_2,bus,0
+environment_non_iid,client_2,car,1
+environment_non_iid,client_2,motor,1
+environment_non_iid,client_2,person,1
+environment_non_iid,client_2,rider,0
+environment_non_iid,client_2,traffic light,4
+environment_non_iid,client_2,traffic sign,3
+environment_non_iid,client_2,truck,1
+environment_non_iid,client_3,bike,1
+environment_non_iid,client_3,bus,0
+environment_non_iid,client_3,car,2
+environment_non_iid,client_3,motor,0
+environment_non_iid,client_3,person,1
+environment_non_iid,client_3,rider,0
+environment_non_iid,client_3,traffic light,0
+environment_non_iid,client_3,traffic sign,1
+environment_non_iid,client_3,truck,1
+environment_non_iid,client_4,bike,2
+environment_non_iid,client_4,bus,2
+environment_non_iid,client_4,car,1
+environment_non_iid,client_4,motor,0
+environment_non_iid,client_4,person,2
+environment_non_iid,client_4,rider,0
+environment_non_iid,client_4,traffic light,0
+environment_non_iid,client_4,traffic sign,0
+environment_non_iid,client_4,truck,0
