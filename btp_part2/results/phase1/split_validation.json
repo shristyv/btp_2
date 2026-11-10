@@ -1,0 +1,98 @@
+{
+  "status": "PASS",
+  "total_crops": 420,
+  "split_counts": {
+    "train": 300,
+    "val": 60,
+    "test": 60
+  },
+  "source_frame_counts": {
+    "train": 50,
+    "val": 10,
+    "test": 11
+  },
+  "unique_classes": [
+    "bike",
+    "bus",
+    "car",
+    "motor",
+    "person",
+    "rider",
+    "traffic light",
+    "traffic sign",
+    "truck"
+  ],
+  "missing_target_classes": [],
+  "duplicate_crop_ids": 0,
+  "missing_crop_files": 0,
+  "source_overlap_counts": {
+    "train_vs_val": 0,
+    "train_vs_test": 0,
+    "val_vs_test": 0
+  },
+  "class_counts": {
+    "train": {
+      "traffic sign": 53,
+      "car": 53,
+      "traffic light": 50,
+      "person": 44,
+      "bike": 29,
+      "truck": 29,
+      "bus": 25,
+      "rider": 11,
+      "motor": 6
+    },
+    "val": {
+      "traffic light": 10,
+      "traffic sign": 10,
+      "car": 9,
+      "person": 9,
+      "bike": 6,
+      "bus": 5,
+      "truck": 5,
+      "motor": 3,
+      "rider": 3
+    },
+    "test": {
+      "car": 16,
+      "traffic sign": 12,
+      "person": 10,
+      "truck": 8,
+      "traffic light": 7,
+      "bus": 3,
+      "rider": 2,
+      "bike": 1,
+      "motor": 1
+    }
+  },
+  "environment_counts": {
+    "train": {
+      "night": 66,
+      "other": 60,
+      "day_clear": 54,
+      "cloudy": 48,
+      "adverse_weather": 42,
+      "dawn_dusk": 30
+    },
+    "val": {
+      "cloudy": 12,
+      "other": 12,
+      "night": 12,
+      "adverse_weather": 12,
+      "dawn_dusk": 6,
+      "day_clear": 6
+    },
+    "test": {
+      "other": 13,
+      "adverse_weather": 12,
+      "cloudy": 12,
+      "night": 11,
+      "day_clear": 6,
+      "dawn_dusk": 6
+    }
+  },
+  "errors": [],
+  "warnings": [
+    "weather: 0 missing and 91 undefined values"
+  ]
+}
