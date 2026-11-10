@@ -1,0 +1,46 @@
+split,group,value,count
+val,class,car,9
+val,class,motor,3
+val,class,traffic light,10
+val,class,rider,3
+val,class,bike,6
+val,class,person,9
+val,class,traffic sign,10
+val,class,bus,5
+val,class,truck,5
+val,environment,cloudy,12
+val,environment,other,12
+val,environment,night,12
+val,environment,adverse_weather,12
+val,environment,dawn_dusk,6
+val,environment,day_clear,6
+train,class,traffic sign,53
+train,class,car,53
+train,class,traffic light,50
+train,class,person,44
+train,class,bike,29
+train,class,motor,6
+train,class,bus,25
+train,class,rider,11
+train,class,truck,29
+train,environment,night,66
+train,environment,adverse_weather,42
+train,environment,other,60
+train,environment,day_clear,54
+train,environment,cloudy,48
+train,environment,dawn_dusk,30
+test,class,bus,3
+test,class,traffic light,7
+test,class,car,16
+test,class,person,10
+test,class,rider,2
+test,class,truck,8
+test,class,traffic sign,12
+test,class,bike,1
+test,class,motor,1
+test,environment,other,13
+test,environment,adverse_weather,12
+test,environment,cloudy,12
+test,environment,day_clear,6
+test,environment,night,11
+test,environment,dawn_dusk,6

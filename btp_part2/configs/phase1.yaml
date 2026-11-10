@@ -1,0 +1,21 @@
+seed: 42
+# Persistent response-body budget shared by 01 and 03. Keep margin below 1 GB.
+download_limit_mb: 850
+# Pilot first; increase after examining audit and pilot output.
+target_crops:
+  train: 300
+  val: 60
+  test: 60
+max_crops_per_image: 6
+min_box_side: 20
+crop_max_side: 160
+jpeg_quality: 85
+# Keep downloaded full frames? false saves storage; it doesn't change network use.
+keep_raw_images: false
+num_clients: 4
+labeled_fraction: 0.10
+client_environment_weights:
+  client_1: {day_clear: 0.75, night: 0.05, adverse: 0.05, cloudy: 0.10, other: 0.05}
+  client_2: {day_clear: 0.05, night: 0.75, adverse: 0.05, cloudy: 0.10, other: 0.05}
+  client_3: {day_clear: 0.05, night: 0.05, adverse: 0.60, cloudy: 0.25, other: 0.05}
+  client_4: {day_clear: 0.30, night: 0.20, adverse: 0.20, cloudy: 0.25, other: 0.05}

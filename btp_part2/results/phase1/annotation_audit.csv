@@ -1,0 +1,3 @@
+split,frames,valid_boxes
+train,450,4655
+val,100,1013

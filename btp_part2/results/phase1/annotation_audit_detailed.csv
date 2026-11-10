@@ -1,0 +1,551 @@
+split,name,weather,scene,timeofday,valid_boxes,classes_present
+train,0000f77c-6257be58,clear,city street,daytime,7,"car,traffic light,traffic sign"
+train,0000f77c-62c2a288,clear,highway,dawn/dusk,1,traffic sign
+train,0000f77c-cb820c98,clear,residential,dawn/dusk,7,car
+train,0001542f-5ce3cf52,clear,city street,night,4,"bus,car"
+train,0001542f-7c670be8,clear,highway,night,2,"car,traffic sign"
+train,0001542f-ec815219,clear,city street,night,4,car
+train,0004974f-05e1c285,rainy,highway,night,3,car
+train,00054602-3bf57337,clear,city street,daytime,5,car
+train,00067cfb-5443fe39,clear,city street,daytime,13,"car,person"
+train,00067cfb-5adfaaa7,clear,highway,night,12,"car,traffic sign,truck"
+train,00067cfb-caba8a02,clear,highway,daytime,9,"bus,car,traffic sign"
+train,00067cfb-e535423e,undefined,city street,dawn/dusk,24,"bus,car,person,traffic light,traffic sign,truck"
+train,00067cfb-f1b91e3c,clear,city street,daytime,12,car
+train,0008a165-c48f4b3e,undefined,highway,dawn/dusk,10,"car,person"
+train,00091078-59817bb0,undefined,city street,daytime,8,"bus,car,truck"
+train,00091078-7cff8ea6,snowy,city street,daytime,14,"car,traffic light,traffic sign"
+train,00091078-84635cf2,snowy,city street,dawn/dusk,16,"car,person,truck"
+train,00091078-875c1f73,snowy,city street,daytime,9,"car,person,truck"
+train,00091078-c1d32eea,snowy,city street,dawn/dusk,10,"car,person"
+train,00091078-cedbfea7,snowy,city street,daytime,7,"bus,car,traffic sign"
+train,00091078-f32de4d2,snowy,city street,dawn/dusk,7,"car,person"
+train,000d35d3-41990aa4,clear,city street,night,19,"car,person,traffic light,truck"
+train,000d4f89-3bcbe37a,clear,residential,daytime,6,car
+train,000e0252-8523a4a9,clear,city street,daytime,9,"car,traffic light,traffic sign"
+train,000f157f-30b30f5e,clear,city street,night,8,"car,traffic sign,truck"
+train,000f157f-37797ff9,clear,highway,night,12,"car,person,traffic light,traffic sign"
+train,000f157f-dab3a407,undefined,city street,daytime,16,"bus,car,person"
+train,000f8d37-d4c09a0f,undefined,city street,daytime,23,"bike,bus,car,person,rider,traffic light"
+train,0010bf16-9ee17cd9,rainy,city street,daytime,9,"car,person,traffic sign,truck"
+train,0010bf16-a457685b,undefined,city street,daytime,6,"bus,car,traffic sign"
+train,00131ea7-624f538d,overcast,highway,daytime,5,"car,truck"
+train,00134776-9123d227,clear,city street,night,11,car
+train,001bad4e-2fa8f3b6,undefined,city street,daytime,14,"bike,car,rider,traffic sign,truck"
+train,001c5339-08faca55,clear,city street,night,17,"car,person,traffic light,traffic sign"
+train,001c5339-13a07470,clear,city street,night,23,"car,traffic light,traffic sign"
+train,001c5339-9a6cdd3e,clear,city street,night,15,"bike,car,traffic sign"
+train,00202076-7a95b4e3,clear,city street,night,5,"bus,car,traffic sign"
+train,00202076-9eaa8e42,undefined,highway,daytime,14,"bus,car,traffic sign"
+train,00207869-046fa443,clear,city street,daytime,15,"car,truck"
+train,00207869-902288d1,clear,city street,daytime,13,"car,traffic light,traffic sign"
+train,00211b17-ad3e206b,clear,city street,night,4,"car,person"
+train,00225f53-4200bde2,overcast,city street,daytime,13,"car,person,truck"
+train,00225f53-67614580,overcast,city street,daytime,16,"car,motor,person,rider,traffic light"
+train,00232de3-19eca24a,clear,city street,night,11,"car,person,traffic sign"
+train,0024b742-83709bd4,overcast,city street,daytime,5,"bike,car,traffic sign,truck"
+train,0024b742-acbed4fb,rainy,city street,daytime,6,"car,traffic sign"
+train,002685b6-856c17f7,overcast,residential,daytime,11,"car,traffic sign"
+train,00268999-0b20ef00,clear,highway,night,8,"car,traffic sign,truck"
+train,00268999-9f6d5823,partly cloudy,city street,daytime,2,"person,traffic sign"
+train,00268999-a4b8e39d,clear,city street,night,3,"car,traffic light"
+train,14461a70-657d89c8,undefined,city street,daytime,14,"bike,car,person,traffic sign,truck"
+train,1446c27b-fb7bfac0,clear,city street,daytime,17,"bike,car,person,traffic light,traffic sign"
+train,144783f3-225cf496,rainy,residential,daytime,12,"car,traffic sign"
+train,1447fd10-165c3b4f,clear,city street,night,4,"car,traffic sign"
+train,1447fd10-bb59bd13,undefined,city street,daytime,17,"car,traffic light,traffic sign"
+train,14486aa2-38c931d5,clear,city street,daytime,8,"car,motor"
+train,144aab2f-3a08b193,undefined,city street,daytime,27,"car,person,truck"
+train,144b01ee-a32054c7,overcast,city street,daytime,16,"bus,car,person"
+train,144bd77c-0a461478,clear,residential,daytime,12,"car,truck"
+train,144ddd02-544178b8,clear,highway,daytime,14,"car,traffic sign,truck"
+train,144ddd02-b8f6bd11,clear,highway,daytime,9,"car,traffic sign"
+train,145073f2-579d0871,rainy,highway,dawn/dusk,16,"car,traffic light,traffic sign,truck"
+train,145073f2-aa74bd04,clear,highway,daytime,10,"car,traffic sign,truck"
+train,145171b9-66031e47,clear,city street,night,14,"car,person,traffic sign"
+train,1452fa4b-56c6e400,undefined,city street,daytime,17,"car,person,traffic light,traffic sign"
+train,14532464-0ab1e53e,clear,city street,night,11,"car,traffic sign,truck"
+train,14539e99-93fdd925,clear,residential,night,9,car
+train,14540082-0de5f53a,partly cloudy,city street,daytime,8,"car,person"
+train,14540082-1c04c004,overcast,city street,daytime,21,"car,traffic sign"
+train,14540082-7a61ca45,clear,city street,daytime,7,"car,truck"
+train,14540082-b478451d,partly cloudy,highway,daytime,8,"car,truck"
+train,14556586-4ea5c6e6,overcast,city street,daytime,9,"car,traffic sign,truck"
+train,14572abd-b6070a81,clear,city street,night,10,"car,traffic sign,truck"
+train,145785ea-c78220bd,snowy,city street,daytime,14,"car,person,traffic light,traffic sign,truck"
+train,1458e4ad-24fdf5c9,foggy,city street,night,9,"car,truck"
+train,1458e4ad-54611ce4,clear,city street,night,10,"car,person,traffic sign,truck"
+train,1458e4ad-f3ce8d5e,undefined,city street,night,6,"car,person,traffic light"
+train,1458e4ad-fd0646bd,clear,city street,night,9,"bike,car"
+train,145bc50b-3a9ade96,overcast,highway,daytime,3,car
+train,145cd40a-3a82fa98,overcast,city street,daytime,11,"car,person"
+train,1462486d-a7debfa4,undefined,city street,daytime,8,"car,traffic light"
+train,1462e08b-8ee18629,rainy,highway,dawn/dusk,7,"car,traffic sign"
+train,14637179-037ce0e3,clear,city street,night,11,"car,traffic light"
+train,14637179-c22ff62b,clear,city street,night,6,"car,traffic sign"
+train,14639b9d-93b6673d,partly cloudy,highway,daytime,9,"car,truck"
+train,1463dea8-2a4b01d0,clear,highway,daytime,7,"bike,car,rider,traffic light,truck"
+train,14652751-7c662ebd,clear,residential,night,13,"car,traffic sign"
+train,1465630c-46d49dce,clear,city street,night,11,"car,traffic light"
+train,1465630c-4db5fc49,partly cloudy,highway,daytime,5,"car,traffic sign,truck"
+train,1465630c-b2f431a0,clear,city street,daytime,8,car
+train,14665c9a-83b354f9,clear,city street,daytime,12,"bus,car,person,traffic light,traffic sign"
+train,14665c9a-9dbbde51,partly cloudy,highway,daytime,11,"bus,car,traffic sign,truck"
+train,14665c9a-e36c5824,partly cloudy,highway,daytime,20,"car,traffic sign,truck"
+train,14689aed-36c28cd6,clear,city street,night,17,"car,traffic light"
+train,14689aed-d99ffd4a,clear,undefined,night,14,car
+train,146a9c5d-48c9d985,overcast,city street,daytime,5,"traffic light,traffic sign"
+train,146b8d6e-8f069566,clear,city street,dawn/dusk,13,"car,traffic sign"
+train,146c50d6-ee7828b4,overcast,city street,daytime,8,"car,truck"
+train,146dfa8b-c0778e39,undefined,city street,daytime,16,car
+train,146e3c43-9db14daf,clear,highway,daytime,4,car
+train,279227e9-a4a36671,partly cloudy,city street,daytime,7,"car,traffic sign,truck"
+train,2793cd68-5d28d9cd,clear,highway,daytime,0,
+train,2794d7bf-08b8788c,overcast,highway,dawn/dusk,12,"car,traffic light,traffic sign"
+train,27957d10-39a13e59,clear,city street,night,2,"car,truck"
+train,27957d10-bb315c84,clear,city street,night,8,car
+train,2795a983-01caa953,clear,city street,night,13,"car,traffic sign"
+train,2795a983-34c59760,clear,city street,night,8,"car,traffic light,traffic sign,truck"
+train,279644af-26d5390f,clear,city street,night,4,"car,traffic sign"
+train,279644af-2c7bd387,clear,city street,night,6,"car,traffic sign"
+train,279644af-7a7e5bcb,clear,city street,night,6,car
+train,279644af-eb52c8af,clear,city street,night,14,"bike,car,traffic sign"
+train,279644af-f3a997d6,clear,city street,night,9,"car,traffic light,traffic sign"
+train,2796cfe3-91da4ef2,partly cloudy,highway,daytime,7,"car,traffic sign"
+train,2796cfe3-9b4d6217,clear,city street,daytime,15,"bus,car,truck"
+train,2796cfe3-b7d7a9c3,partly cloudy,residential,daytime,20,"car,person,traffic sign"
+train,2796cfe3-fab72c31,clear,city street,daytime,10,"car,person,traffic light"
+train,27990d98-a0c5608f,clear,city street,night,3,car
+train,279acb2b-eccd70a4,rainy,city street,night,8,"bus,car,traffic light,traffic sign"
+train,279b1efd-11ad8c61,overcast,highway,daytime,5,"car,traffic sign"
+train,279b1efd-4582d0ee,undefined,city street,daytime,6,"bus,car,truck"
+train,279b73b3-d7e99641,clear,city street,night,7,"car,traffic sign"
+train,279b882c-2260f1c5,undefined,city street,daytime,16,"bus,car,person,traffic sign,truck"
+train,279b882c-3cf43a58,clear,city street,night,8,"car,traffic light,traffic sign"
+train,279ceb3d-d097f4a2,clear,city street,daytime,17,"bus,car,traffic sign"
+train,279f4a82-cc103ce2,clear,city street,night,11,"bus,car,traffic light"
+train,279f4a82-f4a582e1,clear,residential,night,14,"car,traffic sign"
+train,27a1074c-c27075c0,clear,city street,night,16,"bike,car,motor,person,traffic light,traffic sign"
+train,27a1074c-fc740458,clear,city street,night,12,car
+train,27a1e6e9-905612cf,clear,city street,night,22,"car,traffic sign"
+train,27a1ecd4-1f42e84d,clear,highway,daytime,11,"traffic sign,truck"
+train,27a28012-ae2afe4a,clear,highway,daytime,7,"car,traffic sign"
+train,27a2e84b-16adf5a9,undefined,residential,daytime,9,"bus,car,traffic sign"
+train,27a3bcc5-39dec422,overcast,city street,daytime,14,"bike,car,traffic sign"
+train,27a3bcc5-9b16d9a0,overcast,city street,daytime,11,car
+train,27a3d76f-d6f4fcbd,clear,highway,night,1,car
+train,27a4125e-8f7758e0,clear,city street,night,14,"car,traffic light"
+train,27a79e9b-d2bbc6c1,clear,city street,night,9,"car,traffic light,traffic sign"
+train,27a819c8-b397d705,clear,city street,night,6,"car,person,traffic light"
+train,27a8d380-3773d4b1,overcast,city street,daytime,19,car
+train,27a8eb8c-220102e8,snowy,highway,night,7,"car,person,traffic light"
+train,27a9c8fe-33be40d7,clear,highway,night,7,"car,traffic sign"
+train,27a9c8fe-76617986,clear,highway,daytime,7,car
+train,27aa0e0c-3d63c781,undefined,city street,daytime,6,"car,traffic sign"
+train,27aa9484-01c6eff7,clear,city street,dawn/dusk,14,"bike,car,person,traffic sign"
+train,27aa9484-a3e9f4e8,clear,city street,night,23,"bus,car,person,rider,traffic light,traffic sign"
+train,27ab4c42-45989cfe,overcast,highway,daytime,13,car
+train,27aba8c3-db0b8539,partly cloudy,city street,daytime,14,car
+train,27ad042c-62e782ba,clear,city street,night,3,"car,traffic sign"
+train,27ad042c-a711f070,clear,city street,night,10,car
+train,27ad042c-c4aad26a,clear,city street,night,3,car
+train,3b5918b2-aca4a8d6,clear,city street,daytime,6,"car,traffic light,traffic sign"
+train,3b598471-00b70a6d,clear,city street,night,14,"car,traffic sign,truck"
+train,3b59c8a5-abdbe892,clear,highway,night,14,"car,rider,traffic sign"
+train,3b59c8a5-f0b031cc,clear,highway,night,11,"car,truck"
+train,3b5a82a8-dffd2422,clear,city street,night,3,"car,traffic sign"
+train,3b5b4c03-1057f55f,rainy,highway,night,4,"car,traffic sign,truck"
+train,3b5c97eb-4d65f7c1,clear,city street,daytime,11,"car,person,traffic sign,truck"
+train,3b5c97eb-9d985c5f,clear,highway,daytime,10,"bus,car,traffic sign"
+train,3b5e8541-da973215,partly cloudy,city street,dawn/dusk,24,"car,traffic light,traffic sign"
+train,3b623eb2-482015fb,clear,city street,night,18,"car,person,traffic light,traffic sign,truck"
+train,3b630e54-d48ddc50,undefined,city street,daytime,13,"car,person,traffic light,traffic sign"
+train,3b630e54-f03458bd,undefined,city street,daytime,16,"bus,car,person,traffic sign"
+train,3b63789d-47eae9b4,partly cloudy,city street,dawn/dusk,12,"car,traffic sign"
+train,3b64b44b-50c15f9e,undefined,city street,daytime,14,"car,person"
+train,3b64ef8e-2dddb439,clear,city street,night,16,"car,traffic light"
+train,3b64ef8e-afaaf18c,clear,undefined,night,10,car
+train,3b663702-7eb71e0f,clear,city street,night,10,"bus,car,traffic sign"
+train,3b667046-d3d96438,clear,highway,daytime,5,car
+train,3b670ca8-df2bbbcf,clear,city street,daytime,16,car
+train,3b6718b1-18c1e590,undefined,city street,daytime,20,"car,traffic sign"
+train,3b677bc3-c5343df6,overcast,city street,daytime,11,"car,person,traffic light,traffic sign,truck"
+train,3b683156-5df79a2f,clear,city street,night,17,"car,person,traffic light,traffic sign"
+train,3b6a9c88-4b4456fb,clear,city street,night,19,"car,motor,rider,traffic sign,truck"
+train,3b6a9c88-5ae592a5,clear,highway,night,6,"car,traffic sign"
+train,3b6a9c88-5c089d72,clear,highway,night,11,"car,traffic sign"
+train,3b6a9c88-86d32389,clear,highway,night,4,"car,traffic sign"
+train,3b6a9c88-c61c5580,clear,city street,daytime,18,"car,person,traffic sign,truck"
+train,3b6a9c88-e6f312ff,clear,city street,night,11,"bike,car,rider"
+train,3b6b3e98-f2cd385d,overcast,residential,daytime,14,"car,traffic sign"
+train,3b6b405f-2276632f,clear,city street,daytime,12,"car,person,traffic light,traffic sign"
+train,3b6b51ce-282449a8,clear,city street,night,19,"car,traffic sign"
+train,3b6b51ce-d1e5991f,clear,city street,night,22,"car,motor,person,traffic light"
+train,3b6c9d25-b54e4ae4,clear,city street,night,2,car
+train,3b6d87a0-6c97e8d3,clear,residential,dawn/dusk,4,"car,traffic sign"
+train,3b6e9e4e-20b8f8b7,overcast,city street,daytime,15,"bike,car,person,rider,traffic sign,truck"
+train,3b6e9e4e-d9a2bf4b,overcast,city street,daytime,16,"car,traffic sign"
+train,3b6e9e4e-de8d6ec7,undefined,city street,daytime,21,"bike,car,person,rider,traffic sign,truck"
+train,3b6ecbd7-48412972,clear,city street,night,22,"car,traffic light,traffic sign"
+train,3b6ecbd7-f11a3c29,clear,city street,night,14,"car,traffic light,traffic sign"
+train,3b703992-d839c82f,clear,highway,daytime,6,"bus,car,traffic sign"
+train,3b70cf61-77ff4d0d,clear,city street,night,8,"car,traffic sign"
+train,3b71089b-7e6805c5,partly cloudy,highway,daytime,8,"car,traffic sign"
+train,3b771d60-7f8a7515,clear,highway,dawn/dusk,4,"car,traffic sign,truck"
+train,3b7725ae-6f1e1357,clear,residential,daytime,4,"car,traffic sign"
+train,3b776cd4-581dfdca,clear,highway,daytime,10,"car,traffic light,traffic sign"
+train,3b7ad773-713d55fa,clear,city street,daytime,5,car
+train,3b7b73fb-3f92e0ac,overcast,city street,daytime,22,"bike,car,person,traffic light,traffic sign,truck"
+train,3b7c5500-d7de3329,rainy,city street,night,10,"bus,car,traffic light,traffic sign,truck"
+train,3b7cba8a-007ea534,partly cloudy,city street,daytime,7,car
+train,3b7cba8a-77805e94,overcast,highway,daytime,12,"car,person,truck"
+train,4fafb9db-4b1137b7,clear,city street,daytime,15,"car,traffic sign,truck"
+train,4fafda2c-52145889,overcast,city street,daytime,14,"car,person,traffic light,traffic sign"
+train,4fafda2c-6e33570f,clear,highway,dawn/dusk,0,
+train,4fb12c25-123a303a,clear,city street,night,4,"car,traffic sign"
+train,4fb12c25-3b18d734,clear,highway,dawn/dusk,2,"car,traffic sign"
+train,4fb12c25-653bf4da,clear,city street,night,9,car
+train,4fb12c25-a3e99d69,clear,residential,dawn/dusk,9,"car,traffic sign"
+train,4fb1eacc-635f79bc,clear,city street,night,6,"car,traffic sign"
+train,4fb29f65-278b3ce1,undefined,city street,daytime,17,"bike,car,person,traffic light"
+train,4fb29f65-2ab7b68c,overcast,highway,daytime,1,traffic sign
+train,4fb29f65-ce5dcf6c,overcast,city street,daytime,18,"bike,car,person,traffic sign"
+train,4fb32823-51682989,overcast,city street,daytime,8,"car,truck"
+train,4fb39d4d-05706db0,snowy,city street,night,14,"bus,car,person,traffic light,traffic sign,truck"
+train,4fb39d4d-7c2be47c,snowy,city street,night,4,"car,person"
+train,4fb6462b-02f7b23e,overcast,city street,daytime,14,"car,traffic light,traffic sign"
+train,4fb76fa0-43ae4fad,rainy,city street,daytime,6,"bus,car,person"
+train,4fba1085-1a799d61,overcast,highway,daytime,6,"car,traffic sign"
+train,4fba20ab-342281d6,clear,highway,night,7,"car,person"
+train,4fbb3d8b-ee557ede,snowy,city street,daytime,8,"bike,car,person,traffic light,traffic sign"
+train,4fbdff6c-a9aa57b5,overcast,city street,daytime,11,"bus,car,traffic sign"
+train,4fbe7776-63748f24,overcast,city street,daytime,10,car
+train,4fbf6144-4b35a438,snowy,residential,daytime,11,car
+train,4fbf88c7-b1d26ed6,clear,city street,night,10,"car,traffic light,traffic sign"
+train,4fc0a6b0-86cc4c5f,rainy,city street,night,8,"car,person,traffic light"
+train,4fc0b703-bc916e96,clear,residential,daytime,13,"car,traffic sign"
+train,4fc1fef1-2f8517ea,clear,city street,daytime,12,"bus,car,person,traffic sign"
+train,4fc4b12a-4d0a147c,clear,city street,night,19,"car,person,traffic light,traffic sign"
+train,4fc4b12a-5154af75,clear,highway,night,2,"car,traffic sign"
+train,4fc5041a-01331964,clear,city street,night,9,"car,traffic sign"
+train,4fc5085e-0dd9fcd7,clear,city street,night,13,car
+train,4fc6aee5-1cee252a,clear,undefined,night,11,car
+train,4fc6aee5-2819638c,rainy,city street,night,15,"car,person,traffic light,traffic sign"
+train,4fc6aee5-703af8ee,rainy,city street,night,11,car
+train,4fc76646-0a03b1a8,undefined,undefined,night,7,car
+train,4fc76b8e-8d055068,clear,city street,night,9,"car,person,traffic light,traffic sign"
+train,4fc7844c-00c2e97f,clear,city street,night,14,"car,person"
+train,4fc7844c-3b1f0144,clear,highway,night,17,"car,traffic sign"
+train,4fc7844c-b377cd06,clear,city street,night,14,car
+train,4fc7844c-f77f1637,clear,city street,night,13,car
+train,4fc8ac6a-285641a3,clear,city street,daytime,7,"car,traffic sign,truck"
+train,4fc97b94-d5e3c839,clear,city street,night,4,"car,traffic sign"
+train,4fc9a545-bbaa353d,clear,city street,night,15,"car,person,traffic light,traffic sign"
+train,4fca2c1a-307576f5,clear,city street,night,19,"bike,car,person,rider,traffic light,traffic sign"
+train,4fca2c1a-5f3775c7,clear,city street,night,11,"car,person"
+train,4fca2c1a-ce78f991,clear,city street,night,18,"car,traffic light,traffic sign"
+train,4fca2c1a-e4e3ee03,clear,city street,night,15,car
+train,4fca9cc0-67ae98cf,clear,city street,dawn/dusk,8,car
+train,4fcd5d39-28f5ce71,overcast,highway,daytime,2,traffic sign
+train,4fcd5d39-2ae52cd1,clear,city street,night,17,car
+train,4fcd5d39-39c79657,overcast,residential,daytime,4,"car,traffic sign"
+train,6312c033-b6366437,rainy,city street,daytime,8,"bus,car,traffic sign,truck"
+train,6312d52f-e6ac6503,clear,city street,night,3,car
+train,6315e236-d4b0a9ec,rainy,undefined,daytime,6,"car,traffic sign"
+train,63178149-dd6ed015,clear,residential,daytime,8,"car,traffic light"
+train,63187401-c4c25dcb,clear,city street,night,7,"car,traffic light,traffic sign"
+train,631973a4-69af569f,rainy,city street,dawn/dusk,15,"car,traffic light,traffic sign"
+train,631973a4-ed1655d9,rainy,city street,night,14,"car,traffic sign"
+train,63199535-42118a49,clear,city street,night,13,"car,traffic sign"
+train,631aa25b-1ca504e5,clear,city street,night,7,"car,traffic light,traffic sign"
+train,631aa25b-c59e3ceb,clear,city street,dawn/dusk,16,"car,traffic light"
+train,631c3f82-60b552e4,partly cloudy,city street,daytime,24,"car,person,traffic light"
+train,631e93e3-55494669,partly cloudy,highway,daytime,3,"car,traffic sign"
+train,631e93e3-6175e30b,clear,city street,daytime,13,car
+train,631e93e3-ca6528d3,rainy,highway,daytime,2,car
+train,631e93e3-d78bd8aa,overcast,city street,daytime,16,"car,motor,rider,traffic light,traffic sign"
+train,631ed900-a60bcb77,partly cloudy,highway,daytime,10,"bus,car,traffic sign,truck"
+train,632083a0-19fc8c8a,partly cloudy,highway,daytime,3,"car,traffic sign"
+train,63248388-75433577,undefined,city street,daytime,15,"car,traffic sign"
+train,6324dc0e-f3ddacc6,clear,residential,daytime,18,"car,traffic sign"
+train,63274a1a-3bca3b26,clear,city street,night,8,"car,traffic light,traffic sign,truck"
+train,632783ed-65f02821,partly cloudy,city street,dawn/dusk,15,"car,person,traffic sign"
+train,63285ac7-10468780,clear,residential,dawn/dusk,11,car
+train,6328b757-f370e8eb,clear,city street,daytime,10,"car,person,traffic light,traffic sign"
+train,63295bf4-29d93f62,clear,highway,night,1,traffic sign
+train,63298a15-92669cb2,clear,city street,night,16,"car,traffic light,traffic sign,truck"
+train,632b3ef0-096427ee,overcast,city street,daytime,6,"car,traffic sign,truck"
+train,632b3ef0-ada4fdd0,clear,residential,daytime,15,"car,person,truck"
+train,632be00e-5371ba08,clear,highway,dawn/dusk,18,"car,traffic sign,truck"
+train,632be00e-b9f1bb43,overcast,highway,daytime,9,"car,traffic sign"
+train,632bef00-15c0c9ab,undefined,highway,daytime,13,"bus,car,traffic sign"
+train,632d623c-3f2fb9b5,overcast,city street,daytime,8,"car,traffic light,truck"
+train,632e28f7-011ea21c,partly cloudy,city street,dawn/dusk,10,"bus,car,traffic sign,truck"
+train,632e28f7-88ee3ee1,undefined,highway,daytime,7,"car,traffic sign"
+train,632e5f42-38c062ed,undefined,city street,night,10,"car,person,traffic light,traffic sign"
+train,632f7ed3-ab11769c,overcast,city street,daytime,6,"car,person"
+train,632fb328-1c6ae6a7,clear,city street,night,0,
+train,632fb328-b499bda7,clear,highway,night,4,"car,traffic sign"
+train,632fb328-b5027a9b,snowy,highway,night,4,car
+train,6330680e-1537087b,clear,city street,night,14,"car,traffic sign"
+train,6330680e-3ba38a5b,clear,highway,night,8,"car,traffic sign"
+train,63317b54-4f7e9454,clear,city street,daytime,9,"car,traffic light,traffic sign"
+train,63317b54-c56622ef,undefined,residential,daytime,7,"car,truck"
+train,6331cec5-29a24f61,clear,highway,night,7,"car,traffic sign"
+train,63323349-24a4a5ad,clear,city street,night,5,car
+train,63323349-8322e406,clear,highway,night,7,car
+train,63323349-c7f0075e,clear,highway,night,18,"bike,car,rider,traffic light,truck"
+train,6332f44a-9389970b,partly cloudy,city street,daytime,8,"car,person"
+train,6332f44a-e01eb7d9,undefined,city street,daytime,19,"bike,bus,car,person,rider"
+train,63330549-ecd1a117,undefined,highway,daytime,6,"car,truck"
+train,63330549-f5824d0d,clear,city street,dawn/dusk,17,"car,person,truck"
+train,76fe3a3f-5b085bd5,clear,city street,night,5,car
+train,76fe3a3f-70ea89bd,clear,undefined,night,4,"car,traffic light,traffic sign"
+train,76fe3a3f-a175c2c8,clear,highway,night,3,"car,traffic sign"
+train,76fe3a3f-eb74ede6,clear,city street,night,5,"bike,car,traffic sign"
+train,76fe3a3f-fbe50601,clear,city street,night,7,"car,traffic light,truck"
+train,77004d6c-2cb37bdc,overcast,city street,daytime,9,"car,traffic light,traffic sign"
+train,77004d6c-dac41900,overcast,highway,daytime,10,"car,traffic sign"
+train,77007211-f5fe4162,partly cloudy,residential,dawn/dusk,13,"bus,car,traffic light"
+train,7700dc88-aefcc78c,snowy,city street,night,9,car
+train,7700dc88-f0148a0a,snowy,highway,night,3,car
+train,77019f47-3fcebab2,clear,highway,night,12,"car,traffic light,traffic sign"
+train,77019f47-67deae8f,undefined,residential,daytime,19,car
+train,77019f47-8cec7589,clear,city street,dawn/dusk,9,"car,traffic sign,truck"
+train,77019f47-f28ce391,clear,city street,night,9,"bus,car,person"
+train,770241ef-7c24a005,clear,city street,night,17,"car,truck"
+train,77047ecb-1cb1e8d9,clear,city street,night,5,"car,traffic sign"
+train,77051be0-69844b0b,clear,city street,night,7,"car,person,truck"
+train,77057dfe-1272d9d0,clear,city street,daytime,20,"bus,car,rider,traffic sign"
+train,77066458-8309ecfe,clear,highway,night,4,car
+train,7706a21c-caacae6b,clear,highway,night,15,"car,traffic sign"
+train,7707475a-7f25f7e0,clear,city street,night,13,car
+train,7707475a-f8297c97,clear,city street,night,9,"bus,car,traffic sign"
+train,770996b7-07f0fc3b,undefined,city street,daytime,12,"car,truck"
+train,770996b7-6fe3ed41,undefined,residential,daytime,21,"car,motor,traffic sign"
+train,7709b5fe-d859c088,clear,highway,night,7,car
+train,770abd99-2cb210be,clear,residential,night,12,"car,traffic light,traffic sign"
+train,770b4b7c-dd594299,clear,highway,night,2,traffic sign
+train,770c36bc-5e466bb1,clear,city street,night,3,"car,traffic sign"
+train,770c3eef-9d7682f7,undefined,city street,daytime,16,"car,traffic sign"
+train,770c4014-c96cb1f7,snowy,city street,daytime,13,"bus,car,person,traffic sign"
+train,770d97bd-17530447,undefined,city street,daytime,8,"bike,bus,car,person,traffic sign"
+train,770d97bd-2e45bf44,clear,residential,daytime,12,"car,traffic sign"
+train,770da829-0fee4eeb,clear,highway,night,4,car
+train,770da829-3dd815fe,clear,highway,night,10,car
+train,770da829-50a92899,clear,city street,night,5,car
+train,770da829-5277ce77,clear,city street,night,15,"car,traffic light,traffic sign"
+train,770da829-aefa1ab2,clear,city street,night,17,"car,traffic sign"
+train,770da829-c66b65b6,clear,city street,night,9,"car,traffic sign"
+train,770da829-cc228b81,clear,city street,night,11,car
+train,770e6fbe-ccd61f12,clear,city street,night,1,car
+train,77118f4d-acf78fa3,rainy,city street,night,8,"car,truck"
+train,7713260f-f5aa6d67,overcast,residential,daytime,13,"car,person"
+train,7714aafe-25b50a01,clear,city street,night,12,"car,traffic sign"
+train,771767be-0e1805cf,clear,highway,night,6,"car,traffic sign"
+train,7717f111-ab657ad0,overcast,residential,daytime,8,"car,traffic sign"
+train,7717f111-ca176e82,overcast,residential,daytime,6,car
+train,77184f1a-b5e6df77,clear,highway,night,9,"car,traffic light"
+train,77184f1a-efb84125,clear,highway,night,7,"car,traffic sign"
+train,7718fe0b-53eef966,clear,city street,daytime,13,"bus,car,traffic sign,truck"
+train,7719e7fc-e1589853,partly cloudy,city street,daytime,9,"bike,car,rider,traffic light"
+train,8ad6ba78-45173a44,clear,city street,daytime,8,"car,traffic sign,truck"
+train,8ad6ba78-924e1fb3,clear,highway,daytime,5,car
+train,8ad6ba78-f3054df8,clear,highway,daytime,9,"car,traffic sign,truck"
+train,8ad78d91-5a2e1055,clear,highway,daytime,13,"car,traffic sign"
+train,8ad79799-2cea141d,overcast,city street,daytime,15,"bus,car,traffic sign"
+train,8ad7b18f-2f56186d,overcast,city street,daytime,13,"car,traffic sign,truck"
+train,8ad82965-33489c3f,clear,city street,night,9,car
+train,8ad8eaa2-4e1b8a8a,clear,city street,night,12,"car,person,traffic light"
+train,8ad8eaa2-a5491793,overcast,highway,night,7,"bus,car,traffic sign"
+train,8ad8f6b4-f2978c21,partly cloudy,highway,daytime,7,"car,traffic sign"
+train,8adbfb58-29ab66aa,rainy,highway,night,3,car
+train,8adbfb58-7637341f,rainy,city street,night,9,"car,traffic light,traffic sign"
+train,8adbfb58-8f38f145,rainy,highway,night,5,car
+train,8addd213-0f68b2a6,rainy,highway,undefined,5,"car,truck"
+train,8ade721e-1f545f16,clear,city street,daytime,14,"car,person,traffic light,traffic sign,truck"
+train,8adf5d13-119e7e6b,clear,highway,night,1,car
+train,8adf8580-d893c9b8,clear,city street,night,2,car
+train,8adfd61f-05a030d5,clear,city street,daytime,15,"car,traffic light,traffic sign"
+train,8adfd61f-1ab308e1,clear,highway,daytime,8,"bike,car,rider,truck"
+train,8ae108b6-9b90a3dc,partly cloudy,highway,daytime,2,"car,truck"
+train,8ae20231-716a505d,clear,city street,dawn/dusk,3,"car,traffic sign"
+train,8ae57cc3-4e0bffea,clear,highway,night,15,"bike,car,person,traffic light"
+train,8ae82c4b-1bb4401d,snowy,city street,night,14,car
+train,8ae98dba-30c8d28e,partly cloudy,highway,daytime,5,"car,traffic sign,truck"
+train,8ae98dba-def17f93,clear,highway,daytime,4,"car,traffic sign"
+train,8aed06c5-9cc582f4,undefined,city street,daytime,7,"car,traffic sign"
+train,8aed8e2f-e572279a,clear,residential,dawn/dusk,9,"bus,car,person,traffic sign"
+train,8aee5862-4e2a3723,clear,city street,night,10,"car,traffic sign"
+train,8aee5862-8b6452a1,snowy,city street,night,21,"bike,car,motor,person,truck"
+train,8aee5862-bea1a8a1,clear,city street,night,13,"car,traffic sign"
+train,8aef3aa8-3486522f,partly cloudy,city street,daytime,13,"car,traffic light,traffic sign,truck"
+train,8aef3aa8-82f5b1e1,clear,city street,daytime,16,"car,traffic light,traffic sign"
+train,8aef3aa8-8f9f40c8,snowy,city street,daytime,14,"car,truck"
+train,8aefd76e-30976828,clear,residential,daytime,13,car
+train,8aefd76e-5506f060,clear,city street,night,14,car
+train,8aefd76e-e16636e5,clear,city street,night,14,"car,traffic sign"
+train,8aefd76e-e371f486,clear,city street,night,4,car
+train,8aefe373-5870a370,clear,highway,daytime,6,"car,traffic sign"
+train,8af0541f-0f4deefe,overcast,city street,daytime,11,"car,traffic light,traffic sign,truck"
+train,8af07d3d-0ddad610,rainy,city street,daytime,7,"car,traffic sign,truck"
+train,8af10ca3-a8f79719,clear,city street,night,10,"car,traffic sign,truck"
+train,8af169cd-caa03f49,partly cloudy,highway,daytime,6,"car,traffic sign,truck"
+train,8af18366-7e4adf49,snowy,city street,daytime,10,"car,person,traffic sign"
+train,8af1991a-1beef5bb,undefined,city street,daytime,25,"bus,car,person,traffic light,traffic sign"
+train,8af412f8-165d3529,clear,residential,dawn/dusk,14,"car,traffic sign,truck"
+train,8af412f8-6c087b3a,undefined,residential,daytime,13,"car,traffic sign"
+train,8af5cadc-68f3ee1b,clear,residential,night,9,"car,traffic sign"
+train,8af63f34-8859a662,partly cloudy,city street,daytime,14,"car,person,traffic light,traffic sign"
+train,8af63f34-94d33012,overcast,highway,daytime,12,car
+train,8af63f34-9e0f538d,partly cloudy,residential,dawn/dusk,16,car
+train,9f1a1159-4c2a449a,clear,city street,night,11,car
+train,9f1a1159-7e6852d9,clear,highway,night,8,"car,traffic sign"
+train,9f1a1159-7f22b485,foggy,residential,night,3,"car,traffic sign"
+train,9f1a1159-8e73614b,clear,city street,night,11,"car,traffic light,traffic sign"
+train,9f1a1159-a08fbaff,snowy,residential,night,13,"bus,car,traffic light"
+train,9f1a1159-b1c8804e,clear,city street,night,16,"car,traffic light,traffic sign"
+train,9f1a1159-c77fe8bc,clear,city street,night,8,"car,truck"
+train,9f1a293d-84ae4886,clear,city street,daytime,16,"car,person,traffic light,truck"
+train,9f1a293d-aa4c544f,undefined,city street,daytime,17,"car,traffic sign,truck"
+train,9f1c0e29-0569c43d,undefined,highway,dawn/dusk,8,"car,traffic sign"
+train,9f1c7549-ca490b7d,undefined,city street,daytime,14,"car,person,truck"
+train,9f1dd3f5-4c55dc7a,undefined,city street,night,4,car
+train,9f1de09d-7d130f33,overcast,city street,daytime,23,"bike,bus,car,motor,person,traffic light,traffic sign"
+train,9f1de7cb-fc6d0f16,rainy,city street,night,18,"car,person,traffic light"
+train,9f2063a4-20885892,undefined,residential,dawn/dusk,6,"car,traffic sign"
+train,9f20d1b9-5a0846cd,snowy,city street,night,3,car
+train,9f20d1b9-faff5a29,snowy,residential,night,13,"car,traffic sign"
+train,9f2113ab-58f3a217,clear,city street,night,8,"car,traffic light,traffic sign"
+train,9f22e256-3d6c3a9a,clear,city street,night,7,"car,traffic sign"
+train,9f22e256-45c76330,clear,residential,night,7,car
+train,9f22e256-586671e1,clear,city street,night,9,car
+train,9f22e256-8f666ef3,clear,city street,night,6,"car,traffic sign"
+train,9f22e256-b57fb0e8,clear,city street,night,11,"car,traffic light,traffic sign"
+train,9f22e256-d5a95914,clear,city street,night,3,"car,traffic light"
+train,9f22e256-e3034b93,clear,city street,night,11,"car,traffic light"
+train,9f22e256-eb7a2489,clear,residential,night,8,"car,traffic light"
+train,9f22e256-facbd9c2,undefined,city street,night,5,"car,traffic sign"
+train,9f233670-795fc903,clear,highway,night,12,car
+train,9f238cfa-92327edb,undefined,highway,daytime,8,"car,traffic sign,truck"
+train,9f238cfa-cc9bb02e,partly cloudy,highway,daytime,6,"car,traffic sign"
+train,9f238cfa-dcffbd7f,overcast,city street,daytime,9,car
+train,9f247a73-259b0709,clear,city street,night,11,"car,traffic sign"
+train,9f2843f3-201e0bb2,overcast,highway,dawn/dusk,6,"car,traffic sign"
+train,9f2843f3-b7bf433c,partly cloudy,city street,dawn/dusk,11,"bus,car,traffic light,traffic sign"
+train,9f2879bf-7ce4d6b5,overcast,highway,daytime,5,car
+train,9f288a64-25bf4ee1,clear,highway,night,10,"car,traffic sign"
+train,9f288a64-404a351b,clear,city street,daytime,13,"car,person,traffic light,traffic sign"
+train,9f288a64-699e06b5,overcast,highway,daytime,10,"car,traffic light,traffic sign,truck"
+train,9f288a64-8291d247,rainy,residential,daytime,10,car
+train,9f288a64-8dbc3392,clear,city street,night,9,car
+train,9f289fac-61c08160,clear,residential,daytime,13,"car,traffic light,traffic sign"
+train,9f289fac-be3c2bfd,clear,highway,daytime,11,"car,person,traffic sign"
+train,9f28ec8c-9ad213c6,clear,highway,daytime,19,"car,traffic sign"
+train,9f29bc15-17ad8873,clear,city street,night,5,"car,traffic sign"
+train,9f29c1d1-1c30004a,overcast,residential,daytime,20,"bus,car,traffic light,traffic sign"
+train,9f2a8f4d-1d230cac,clear,city street,night,10,"car,truck"
+train,9f2a8f4d-f45d9182,undefined,highway,night,5,car
+train,9f2aa247-a3ca3eb0,overcast,highway,dawn/dusk,13,"bus,car,traffic sign"
+train,9f2c156f-0bce85c2,rainy,city street,night,11,"car,traffic light,traffic sign"
+train,9f2c156f-28797ebe,rainy,city street,night,18,"car,traffic sign"
+val,b1c66a42-6f7d68ca,overcast,city street,daytime,16,"car,traffic sign"
+val,b1c81faa-3df17267,clear,highway,night,2,"car,traffic sign"
+val,b1c81faa-c80764c5,clear,highway,night,4,"car,traffic sign"
+val,b1c9c847-3bda4659,undefined,city street,daytime,13,car
+val,b1ca2e5d-84cf9134,clear,city street,night,18,"car,person,traffic light,traffic sign"
+val,b1ca8418-84a133a0,clear,city street,night,5,"car,motor,traffic light,traffic sign"
+val,b1cac6a7-04e33135,rainy,city street,daytime,12,car
+val,b1cd1e94-26dd524f,clear,city street,night,9,car
+val,b1cd1e94-549d0bfe,undefined,city street,daytime,11,"bus,car,person,traffic light,traffic sign"
+val,b1ceb32e-3f481b43,clear,city street,night,8,car
+val,b1ceb32e-51852abe,clear,city street,dawn/dusk,13,"car,person,traffic sign"
+val,b1ceb32e-813f84b2,undefined,tunnel,night,4,car
+val,b1ceb32e-a106591d,overcast,city street,daytime,18,"car,person,traffic sign,truck"
+val,b1cebfb7-284f5117,clear,highway,daytime,4,"car,truck"
+val,b1d0091f-75824d0d,rainy,highway,daytime,8,"car,traffic sign,truck"
+val,b1d0091f-f2c2d2ae,overcast,highway,daytime,12,"car,truck"
+val,b1d0a191-03dcecc2,snowy,city street,daytime,22,"car,person,traffic light,traffic sign,truck"
+val,b1d0a191-06deb55d,snowy,city street,daytime,13,"car,person"
+val,b1d0a191-28f0e779,snowy,city street,daytime,14,"car,person,traffic sign"
+val,b1d0a191-2ed2269e,snowy,city street,daytime,15,"car,person,traffic light,traffic sign,truck"
+val,b1d0a191-5490450b,snowy,residential,daytime,13,"car,person,traffic light"
+val,b1d0a191-65deaeef,snowy,city street,daytime,12,"car,traffic sign,truck"
+val,b1d0a191-de8948f6,snowy,highway,daytime,14,"car,person,traffic sign,truck"
+val,b1d10d08-5b108225,clear,city street,dawn/dusk,12,car
+val,b1d10d08-743fd86c,clear,city street,night,8,"car,traffic sign"
+val,b1d10d08-c35503b8,clear,city street,daytime,17,"bus,car,traffic sign"
+val,b1d10d08-da110fcb,clear,city street,dawn/dusk,13,"car,traffic light"
+val,b1d10d08-ec660956,snowy,residential,daytime,8,"car,traffic sign"
+val,b1d22449-117aa773,clear,highway,night,9,"car,traffic sign"
+val,b1d22449-15fb948f,clear,city street,night,11,"bus,car,truck"
+val,b1d22ed6-f1cac061,undefined,city street,daytime,14,"bus,car,person,traffic sign"
+val,b1d3907b-2278601b,clear,city street,night,5,car
+val,b1d4b62c-60aab822,clear,residential,dawn/dusk,14,"car,traffic sign"
+val,b1d4b62c-89eeb5d3,clear,residential,night,9,"car,traffic light"
+val,b1d4b62c-d9805029,clear,city street,night,15,"car,person"
+val,b1d59b1f-a38aec79,clear,city street,dawn/dusk,3,car
+val,b1d7b3ac-0bdb47dc,clear,city street,dawn/dusk,7,"car,traffic sign,truck"
+val,b1d7b3ac-2a92e19f,clear,residential,dawn/dusk,5,car
+val,b1d7b3ac-36f2d3b7,clear,residential,daytime,5,car
+val,b1d7b3ac-5744370e,clear,city street,daytime,4,"car,traffic sign"
+val,b1d7b3ac-5af8623b,clear,highway,daytime,4,"car,traffic sign"
+val,b1d7b3ac-995f9d8a,clear,residential,daytime,7,"car,person,traffic sign"
+val,b1d7b3ac-9e14f05f,clear,residential,dawn/dusk,8,car
+val,b1d7b3ac-afa57f22,clear,residential,dawn/dusk,2,"bus,car"
+val,b1d8735d-eee9f184,clear,city street,night,8,car
+val,b1d968b9-563405f4,overcast,city street,daytime,9,"bus,car,person,traffic sign,truck"
+val,b1d968b9-ce42734f,overcast,highway,dawn/dusk,13,"car,person,traffic sign,truck"
+val,b1d971b4-ac67ca0d,overcast,residential,daytime,11,"car,truck"
+val,b1d9e136-6c94ea3f,undefined,city street,daytime,14,"bus,car,motor,person,rider,traffic light"
+val,b1d9e136-9ab25cb3,undefined,city street,daytime,10,"car,person"
+val,be6feca9-888ffd4c,clear,city street,night,19,"bus,car,traffic sign"
+val,be724abb-9a2a625c,partly cloudy,city street,dawn/dusk,10,"car,traffic sign"
+val,be731030-7593da2a,undefined,city street,daytime,7,"car,traffic sign"
+val,be731030-82d58159,clear,city street,daytime,9,"car,traffic sign,truck"
+val,be731030-c29affd6,partly cloudy,highway,daytime,11,"car,traffic sign,truck"
+val,be73806a-cd8633af,clear,city street,night,8,"car,traffic sign,truck"
+val,be769e9f-abea5fd9,snowy,city street,daytime,14,"car,truck"
+val,be769e9f-ed37df2b,partly cloudy,city street,daytime,12,"car,truck"
+val,be76ea62-78b2c8f8,clear,city street,night,1,car
+val,be776742-fe6599b2,clear,residential,dawn/dusk,16,"car,traffic sign"
+val,be777044-7db298a4,rainy,city street,daytime,18,"car,person,truck"
+val,be777044-db29e596,undefined,city street,daytime,14,"car,person,traffic sign,truck"
+val,be7783b0-b44ff154,snowy,city street,daytime,8,"car,person"
+val,be791a81-a6b53fef,overcast,highway,daytime,1,car
+val,be7b856e-d1ece683,clear,highway,night,11,"car,traffic sign"
+val,be7c5bf9-f31d60c1,clear,city street,night,5,"car,person,truck"
+val,be80a253-75e6f6aa,clear,city street,daytime,11,"car,traffic light,traffic sign,truck"
+val,be819732-9cff62ba,undefined,highway,daytime,11,"car,traffic sign"
+val,be832d0b-0ed20122,clear,highway,night,8,"car,traffic sign"
+val,be832d0b-2384fe4c,clear,highway,night,10,"car,traffic sign"
+val,be83776d-e07b8fdc,undefined,city street,daytime,8,"car,person,traffic light"
+val,be839b4c-fba3ea45,overcast,city street,daytime,20,"car,person,traffic light,traffic sign,truck"
+val,be83fbfa-53a6b842,undefined,city street,daytime,8,"car,person,truck"
+val,be85292c-a3fbba40,clear,city street,dawn/dusk,12,"car,person"
+val,be852dd5-29511af0,undefined,city street,daytime,9,"car,person,traffic light,truck"
+val,be854092-492e5e65,undefined,city street,dawn/dusk,12,"car,person,truck"
+val,be85665c-4fe33b5c,clear,highway,night,11,"bus,car,traffic sign"
+val,be8590fa-52948d8f,clear,highway,dawn/dusk,2,car
+val,be8590fa-9ab10ced,clear,residential,daytime,16,"car,person,traffic sign"
+val,be85bd88-4aad89d7,overcast,highway,daytime,7,"car,traffic sign,truck"
+val,be85bd88-d849c034,overcast,highway,daytime,14,"car,traffic sign,truck"
+val,be860305-899a96c3,clear,city street,night,21,"car,traffic light,traffic sign"
+val,be8663d6-e9cbeb2e,undefined,city street,daytime,14,"bike,car,person,rider"
+val,be8962cd-17e6f610,clear,city street,night,11,"car,traffic sign"
+val,be8962cd-2f4d528e,undefined,residential,night,6,"car,traffic sign,truck"
+val,be8b3ab2-26370e88,overcast,highway,daytime,12,car
+val,be8b8284-01e2400c,clear,city street,night,8,"car,person,traffic light"
+val,be8b8284-18138380,clear,highway,night,5,"car,traffic sign"
+val,be8bceff-efda56f8,clear,highway,night,8,"car,traffic sign,truck"
+val,be8cb554-6f4255f3,clear,highway,daytime,5,car
+val,be8d7ea3-4b798531,clear,city street,night,22,"car,person,traffic light,traffic sign"
+val,be8d7ea3-a6236da4,clear,city street,night,9,"car,person,traffic sign"
+val,be8d7ea3-f860b6f5,clear,highway,night,0,
+val,be8dc474-faef6d09,clear,city street,night,8,"car,person,traffic sign"
+val,be926190-5293afb9,overcast,residential,daytime,15,car
+val,be93769c-354d1d72,partly cloudy,city street,daytime,11,"car,truck"
+val,be9496ad-3d23e714,overcast,city street,daytime,10,"car,traffic light,traffic sign"
+val,be94c28f-7128d4c4,clear,highway,daytime,5,"bus,car"
+val,be94c28f-9526bf9a,clear,highway,daytime,3,"car,traffic sign"
+val,be94df25-464ac4f8,clear,highway,daytime,12,"car,traffic sign,truck"
