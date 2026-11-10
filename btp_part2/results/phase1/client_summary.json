@@ -1,0 +1,42 @@
+{
+  "iid": {
+    "crops_per_client": {
+      "client_1": 78,
+      "client_2": 78,
+      "client_3": 72,
+      "client_4": 72
+    },
+    "source_frames_per_client": {
+      "client_1": 13,
+      "client_2": 13,
+      "client_3": 12,
+      "client_4": 12
+    },
+    "labeled_per_client": {
+      "client_1": 10,
+      "client_2": 4,
+      "client_3": 11,
+      "client_4": 5
+    }
+  },
+  "environment_non_iid": {
+    "crops_per_client": {
+      "client_1": 84,
+      "client_2": 84,
+      "client_3": 66,
+      "client_4": 66
+    },
+    "source_frames_per_client": {
+      "client_1": 14,
+      "client_2": 14,
+      "client_3": 11,
+      "client_4": 11
+    },
+    "labeled_per_client": {
+      "client_1": 6,
+      "client_2": 11,
+      "client_3": 6,
+      "client_4": 7
+    }
+  }
+}

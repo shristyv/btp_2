@@ -1,0 +1,6 @@
+crop_id,crop_path,split,source_image,source_split,class,weather,timeofday,scene,environment,box_index,x,y,w,h,env_group,client_id,label_status
+train_14461a70-657d89c8_11,data/processed/crops/train/train_14461a70-657d89c8_11.jpg,train,14461a70-657d89c8.jpg,train,bike,undefined,daytime,city street,other,11,363.676243,258.773955,67.88822900000002,62.29743300000001,unknown,client_4,labeled
+train_3b683156-5df79a2f_16,data/processed/crops/train/train_3b683156-5df79a2f_16.jpg,train,3b683156-5df79a2f.jpg,train,traffic light,clear,night,city street,night,16,936.184093,133.346999,20.938784000000055,56.20410699999999,night,client_4,labeled
+train_4fbb3d8b-ee557ede_5,data/processed/crops/train/train_4fbb3d8b-ee557ede_5.jpg,train,4fbb3d8b-ee557ede.jpg,train,bike,snowy,daytime,city street,adverse_weather,5,804.202094,318.457896,84.410527,65.226317,adverse,client_4,labeled
+train_6328b757-f370e8eb_3,data/processed/crops/train/train_6328b757-f370e8eb_3.jpg,train,6328b757-f370e8eb.jpg,train,traffic light,clear,daytime,city street,day_clear,3,688.659283,261.741352,38.117672000000084,24.776487999999972,day_clear,client_4,labeled
+train_9f288a64-699e06b5_4,data/processed/crops/train/train_9f288a64-699e06b5_4.jpg,train,9f288a64-699e06b5.jpg,train,traffic sign,overcast,daytime,highway,cloudy,4,1144.202136,121.194019,24.483639999999923,20.811093999999997,overcast,client_4,labeled

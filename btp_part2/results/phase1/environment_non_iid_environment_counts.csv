@@ -1,0 +1,5 @@
+client_id,adverse,dawn_dusk,day_clear,night,overcast,unknown
+client_1,0,24,60,0,0,0
+client_2,0,0,0,84,0,0
+client_3,24,0,0,0,42,0
+client_4,0,6,0,0,0,60

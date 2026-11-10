@@ -1,0 +1,61 @@
+crop_id,crop_path,split,source_image,source_split,weather,timeofday,scene,environment,env_group,client_id,label_status
+train_0010bf16-9ee17cd9_2,data/processed/crops/train/train_0010bf16-9ee17cd9_2.jpg,train,0010bf16-9ee17cd9.jpg,train,rainy,daytime,city street,adverse_weather,adverse,client_3,unlabeled
+train_0010bf16-9ee17cd9_3,data/processed/crops/train/train_0010bf16-9ee17cd9_3.jpg,train,0010bf16-9ee17cd9.jpg,train,rainy,daytime,city street,adverse_weather,adverse,client_3,unlabeled
+train_0010bf16-9ee17cd9_5,data/processed/crops/train/train_0010bf16-9ee17cd9_5.jpg,train,0010bf16-9ee17cd9.jpg,train,rainy,daytime,city street,adverse_weather,adverse,client_3,unlabeled
+train_0010bf16-9ee17cd9_6,data/processed/crops/train/train_0010bf16-9ee17cd9_6.jpg,train,0010bf16-9ee17cd9.jpg,train,rainy,daytime,city street,adverse_weather,adverse,client_3,unlabeled
+train_0010bf16-9ee17cd9_7,data/processed/crops/train/train_0010bf16-9ee17cd9_7.jpg,train,0010bf16-9ee17cd9.jpg,train,rainy,daytime,city street,adverse_weather,adverse,client_3,unlabeled
+train_0010bf16-9ee17cd9_8,data/processed/crops/train/train_0010bf16-9ee17cd9_8.jpg,train,0010bf16-9ee17cd9.jpg,train,rainy,daytime,city street,adverse_weather,adverse,client_3,unlabeled
+train_00225f53-67614580_13,data/processed/crops/train/train_00225f53-67614580_13.jpg,train,00225f53-67614580.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_00225f53-67614580_14,data/processed/crops/train/train_00225f53-67614580_14.jpg,train,00225f53-67614580.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_00225f53-67614580_15,data/processed/crops/train/train_00225f53-67614580_15.jpg,train,00225f53-67614580.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_00225f53-67614580_4,data/processed/crops/train/train_00225f53-67614580_4.jpg,train,00225f53-67614580.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_00225f53-67614580_7,data/processed/crops/train/train_00225f53-67614580_7.jpg,train,00225f53-67614580.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_00225f53-67614580_9,data/processed/crops/train/train_00225f53-67614580_9.jpg,train,00225f53-67614580.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_3b677bc3-c5343df6_1,data/processed/crops/train/train_3b677bc3-c5343df6_1.jpg,train,3b677bc3-c5343df6.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_3b677bc3-c5343df6_3,data/processed/crops/train/train_3b677bc3-c5343df6_3.jpg,train,3b677bc3-c5343df6.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_3b677bc3-c5343df6_4,data/processed/crops/train/train_3b677bc3-c5343df6_4.jpg,train,3b677bc3-c5343df6.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_3b677bc3-c5343df6_6,data/processed/crops/train/train_3b677bc3-c5343df6_6.jpg,train,3b677bc3-c5343df6.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_3b677bc3-c5343df6_8,data/processed/crops/train/train_3b677bc3-c5343df6_8.jpg,train,3b677bc3-c5343df6.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_3b6e9e4e-20b8f8b7_13,data/processed/crops/train/train_3b6e9e4e-20b8f8b7_13.jpg,train,3b6e9e4e-20b8f8b7.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_3b6e9e4e-20b8f8b7_14,data/processed/crops/train/train_3b6e9e4e-20b8f8b7_14.jpg,train,3b6e9e4e-20b8f8b7.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_3b6e9e4e-20b8f8b7_2,data/processed/crops/train/train_3b6e9e4e-20b8f8b7_2.jpg,train,3b6e9e4e-20b8f8b7.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_3b6e9e4e-20b8f8b7_3,data/processed/crops/train/train_3b6e9e4e-20b8f8b7_3.jpg,train,3b6e9e4e-20b8f8b7.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_3b6e9e4e-20b8f8b7_4,data/processed/crops/train/train_3b6e9e4e-20b8f8b7_4.jpg,train,3b6e9e4e-20b8f8b7.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_3b6e9e4e-20b8f8b7_5,data/processed/crops/train/train_3b6e9e4e-20b8f8b7_5.jpg,train,3b6e9e4e-20b8f8b7.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_4fbb3d8b-ee557ede_0,data/processed/crops/train/train_4fbb3d8b-ee557ede_0.jpg,train,4fbb3d8b-ee557ede.jpg,train,snowy,daytime,city street,adverse_weather,adverse,client_3,unlabeled
+train_4fbb3d8b-ee557ede_1,data/processed/crops/train/train_4fbb3d8b-ee557ede_1.jpg,train,4fbb3d8b-ee557ede.jpg,train,snowy,daytime,city street,adverse_weather,adverse,client_3,unlabeled
+train_4fbb3d8b-ee557ede_3,data/processed/crops/train/train_4fbb3d8b-ee557ede_3.jpg,train,4fbb3d8b-ee557ede.jpg,train,snowy,daytime,city street,adverse_weather,adverse,client_3,unlabeled
+train_4fbb3d8b-ee557ede_4,data/processed/crops/train/train_4fbb3d8b-ee557ede_4.jpg,train,4fbb3d8b-ee557ede.jpg,train,snowy,daytime,city street,adverse_weather,adverse,client_3,unlabeled
+train_4fbb3d8b-ee557ede_6,data/processed/crops/train/train_4fbb3d8b-ee557ede_6.jpg,train,4fbb3d8b-ee557ede.jpg,train,snowy,daytime,city street,adverse_weather,adverse,client_3,unlabeled
+train_6312c033-b6366437_1,data/processed/crops/train/train_6312c033-b6366437_1.jpg,train,6312c033-b6366437.jpg,train,rainy,daytime,city street,adverse_weather,adverse,client_3,unlabeled
+train_6312c033-b6366437_3,data/processed/crops/train/train_6312c033-b6366437_3.jpg,train,6312c033-b6366437.jpg,train,rainy,daytime,city street,adverse_weather,adverse,client_3,unlabeled
+train_6312c033-b6366437_5,data/processed/crops/train/train_6312c033-b6366437_5.jpg,train,6312c033-b6366437.jpg,train,rainy,daytime,city street,adverse_weather,adverse,client_3,unlabeled
+train_6312c033-b6366437_6,data/processed/crops/train/train_6312c033-b6366437_6.jpg,train,6312c033-b6366437.jpg,train,rainy,daytime,city street,adverse_weather,adverse,client_3,unlabeled
+train_6312c033-b6366437_7,data/processed/crops/train/train_6312c033-b6366437_7.jpg,train,6312c033-b6366437.jpg,train,rainy,daytime,city street,adverse_weather,adverse,client_3,unlabeled
+train_631e93e3-d78bd8aa_11,data/processed/crops/train/train_631e93e3-d78bd8aa_11.jpg,train,631e93e3-d78bd8aa.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_631e93e3-d78bd8aa_12,data/processed/crops/train/train_631e93e3-d78bd8aa_12.jpg,train,631e93e3-d78bd8aa.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_631e93e3-d78bd8aa_13,data/processed/crops/train/train_631e93e3-d78bd8aa_13.jpg,train,631e93e3-d78bd8aa.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_631e93e3-d78bd8aa_14,data/processed/crops/train/train_631e93e3-d78bd8aa_14.jpg,train,631e93e3-d78bd8aa.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_631e93e3-d78bd8aa_15,data/processed/crops/train/train_631e93e3-d78bd8aa_15.jpg,train,631e93e3-d78bd8aa.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_631e93e3-d78bd8aa_2,data/processed/crops/train/train_631e93e3-d78bd8aa_2.jpg,train,631e93e3-d78bd8aa.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_770c4014-c96cb1f7_0,data/processed/crops/train/train_770c4014-c96cb1f7_0.jpg,train,770c4014-c96cb1f7.jpg,train,snowy,daytime,city street,adverse_weather,adverse,client_3,unlabeled
+train_770c4014-c96cb1f7_11,data/processed/crops/train/train_770c4014-c96cb1f7_11.jpg,train,770c4014-c96cb1f7.jpg,train,snowy,daytime,city street,adverse_weather,adverse,client_3,unlabeled
+train_770c4014-c96cb1f7_4,data/processed/crops/train/train_770c4014-c96cb1f7_4.jpg,train,770c4014-c96cb1f7.jpg,train,snowy,daytime,city street,adverse_weather,adverse,client_3,unlabeled
+train_770c4014-c96cb1f7_8,data/processed/crops/train/train_770c4014-c96cb1f7_8.jpg,train,770c4014-c96cb1f7.jpg,train,snowy,daytime,city street,adverse_weather,adverse,client_3,unlabeled
+train_8af0541f-0f4deefe_0,data/processed/crops/train/train_8af0541f-0f4deefe_0.jpg,train,8af0541f-0f4deefe.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_8af0541f-0f4deefe_1,data/processed/crops/train/train_8af0541f-0f4deefe_1.jpg,train,8af0541f-0f4deefe.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_8af0541f-0f4deefe_10,data/processed/crops/train/train_8af0541f-0f4deefe_10.jpg,train,8af0541f-0f4deefe.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_8af0541f-0f4deefe_2,data/processed/crops/train/train_8af0541f-0f4deefe_2.jpg,train,8af0541f-0f4deefe.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_8af0541f-0f4deefe_3,data/processed/crops/train/train_8af0541f-0f4deefe_3.jpg,train,8af0541f-0f4deefe.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_8af0541f-0f4deefe_5,data/processed/crops/train/train_8af0541f-0f4deefe_5.jpg,train,8af0541f-0f4deefe.jpg,train,overcast,daytime,city street,cloudy,overcast,client_3,unlabeled
+train_9f288a64-699e06b5_0,data/processed/crops/train/train_9f288a64-699e06b5_0.jpg,train,9f288a64-699e06b5.jpg,train,overcast,daytime,highway,cloudy,overcast,client_3,unlabeled
+train_9f288a64-699e06b5_1,data/processed/crops/train/train_9f288a64-699e06b5_1.jpg,train,9f288a64-699e06b5.jpg,train,overcast,daytime,highway,cloudy,overcast,client_3,unlabeled
+train_9f288a64-699e06b5_2,data/processed/crops/train/train_9f288a64-699e06b5_2.jpg,train,9f288a64-699e06b5.jpg,train,overcast,daytime,highway,cloudy,overcast,client_3,unlabeled
+train_9f288a64-699e06b5_3,data/processed/crops/train/train_9f288a64-699e06b5_3.jpg,train,9f288a64-699e06b5.jpg,train,overcast,daytime,highway,cloudy,overcast,client_3,unlabeled
+train_9f288a64-699e06b5_9,data/processed/crops/train/train_9f288a64-699e06b5_9.jpg,train,9f288a64-699e06b5.jpg,train,overcast,daytime,highway,cloudy,overcast,client_3,unlabeled
+train_9f29c1d1-1c30004a_1,data/processed/crops/train/train_9f29c1d1-1c30004a_1.jpg,train,9f29c1d1-1c30004a.jpg,train,overcast,daytime,residential,cloudy,overcast,client_3,unlabeled
+train_9f29c1d1-1c30004a_12,data/processed/crops/train/train_9f29c1d1-1c30004a_12.jpg,train,9f29c1d1-1c30004a.jpg,train,overcast,daytime,residential,cloudy,overcast,client_3,unlabeled
+train_9f29c1d1-1c30004a_2,data/processed/crops/train/train_9f29c1d1-1c30004a_2.jpg,train,9f29c1d1-1c30004a.jpg,train,overcast,daytime,residential,cloudy,overcast,client_3,unlabeled
+train_9f29c1d1-1c30004a_3,data/processed/crops/train/train_9f29c1d1-1c30004a_3.jpg,train,9f29c1d1-1c30004a.jpg,train,overcast,daytime,residential,cloudy,overcast,client_3,unlabeled
+train_9f29c1d1-1c30004a_5,data/processed/crops/train/train_9f29c1d1-1c30004a_5.jpg,train,9f29c1d1-1c30004a.jpg,train,overcast,daytime,residential,cloudy,overcast,client_3,unlabeled
+train_9f29c1d1-1c30004a_6,data/processed/crops/train/train_9f29c1d1-1c30004a_6.jpg,train,9f29c1d1-1c30004a.jpg,train,overcast,daytime,residential,cloudy,overcast,client_3,unlabeled

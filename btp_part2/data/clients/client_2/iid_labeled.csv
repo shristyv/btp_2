@@ -1,0 +1,5 @@
+crop_id,crop_path,split,source_image,source_split,class,weather,timeofday,scene,environment,box_index,x,y,w,h,env_group,client_id,label_status
+train_3b6b51ce-d1e5991f_19,data/processed/crops/train/train_3b6b51ce-d1e5991f_19.jpg,train,3b6b51ce-d1e5991f.jpg,train,motor,clear,night,city street,night,19,1122.498422,317.882157,28.298582000000124,45.827044,night,client_2,labeled
+train_6312c033-b6366437_2,data/processed/crops/train/train_6312c033-b6366437_2.jpg,train,6312c033-b6366437.jpg,train,truck,rainy,daytime,city street,adverse_weather,2,549.261325,334.647631,116.04112699999996,163.455799,adverse,client_2,labeled
+train_77007211-f5fe4162_3,data/processed/crops/train/train_77007211-f5fe4162_3.jpg,train,77007211-f5fe4162.jpg,train,bus,partly cloudy,dawn/dusk,residential,dawn_dusk,3,768.060624,362.244109,183.05574000000001,37.38462300000003,dawn_dusk,client_2,labeled
+train_8aee5862-8b6452a1_1,data/processed/crops/train/train_8aee5862-8b6452a1_1.jpg,train,8aee5862-8b6452a1.jpg,train,person,snowy,night,city street,adverse_weather,1,322.544304,212.962349,32.062478,114.749921,night,client_2,labeled
