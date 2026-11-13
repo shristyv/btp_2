@@ -1,0 +1,12 @@
+split,shard,listed,requested,new,cached,failed
+train,data/labels/100k/train/shard_000,7778,250,248,2,0
+train,data/labels/100k/train/shard_001,7778,250,249,1,0
+train,data/labels/100k/train/shard_002,7778,250,247,3,0
+train,data/labels/100k/train/shard_003,7778,250,248,2,0
+train,data/labels/100k/train/shard_004,7778,250,250,0,0
+train,data/labels/100k/train/shard_005,7778,250,248,2,0
+train,data/labels/100k/train/shard_006,7778,250,249,1,0
+train,data/labels/100k/train/shard_007,7778,250,249,1,0
+train,data/labels/100k/train/shard_008,7776,250,250,0,0
+val,data/labels/100k/val/shard_000,5000,200,200,0,0
+val,data/labels/100k/val/shard_001,5000,200,198,2,0
