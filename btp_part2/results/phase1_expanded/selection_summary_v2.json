@@ -1,0 +1,86 @@
+{
+  "seed": 42,
+  "target": {
+    "train": 3200,
+    "val": 600,
+    "test": 600
+  },
+  "max_per_image": 6,
+  "splits": [
+    {
+      "split": "val",
+      "target_crops": 600,
+      "selected_crops": 600,
+      "selected_frames": 100,
+      "class_counts": {
+        "motor": 48,
+        "rider": 60,
+        "bus": 59,
+        "person": 74,
+        "bike": 71,
+        "traffic light": 74,
+        "traffic sign": 74,
+        "car": 75,
+        "truck": 65
+      },
+      "environment_counts": {
+        "unknown": 120,
+        "night": 90,
+        "overcast": 96,
+        "day_clear": 162,
+        "dawn_dusk": 60,
+        "adverse": 72
+      }
+    },
+    {
+      "split": "test",
+      "target_crops": 600,
+      "selected_crops": 600,
+      "selected_frames": 101,
+      "class_counts": {
+        "rider": 19,
+        "bike": 29,
+        "person": 89,
+        "motor": 21,
+        "bus": 47,
+        "traffic light": 90,
+        "car": 119,
+        "truck": 90,
+        "traffic sign": 96
+      },
+      "environment_counts": {
+        "overcast": 88,
+        "unknown": 132,
+        "day_clear": 130,
+        "night": 112,
+        "adverse": 72,
+        "dawn_dusk": 66
+      }
+    },
+    {
+      "split": "train",
+      "target_crops": 3200,
+      "selected_crops": 3200,
+      "selected_frames": 538,
+      "class_counts": {
+        "bike": 142,
+        "traffic light": 492,
+        "person": 491,
+        "truck": 493,
+        "traffic sign": 565,
+        "car": 693,
+        "bus": 250,
+        "rider": 45,
+        "motor": 29
+      },
+      "environment_counts": {
+        "unknown": 507,
+        "adverse": 423,
+        "day_clear": 781,
+        "night": 740,
+        "overcast": 440,
+        "dawn_dusk": 309
+      }
+    }
+  ]
+}

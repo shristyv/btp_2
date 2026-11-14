@@ -1,0 +1,14 @@
+source_split,value,count
+train,city street,1684
+train,gas stations,2
+train,highway,662
+train,parking lot,14
+train,residential,296
+train,tunnel,3
+train,undefined,19
+val,city street,305
+val,highway,111
+val,parking lot,1
+val,residential,76
+val,tunnel,1
+val,undefined,2

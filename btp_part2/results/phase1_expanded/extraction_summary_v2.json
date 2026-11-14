@@ -1,0 +1,36 @@
+{
+  "crops_total": 4400,
+  "crops_by_split": {
+    "val": 600,
+    "test": 600,
+    "train": 3200
+  },
+  "class_counts": {
+    "motor": 98,
+    "rider": 124,
+    "bus": 356,
+    "person": 654,
+    "bike": 242,
+    "traffic light": 656,
+    "traffic sign": 735,
+    "car": 887,
+    "truck": 648
+  },
+  "environment_counts": {
+    "unknown": 759,
+    "night": 942,
+    "overcast": 624,
+    "day_clear": 1073,
+    "dawn_dusk": 435,
+    "adverse": 567
+  },
+  "metadata_bytes_reserved": 58683722,
+  "image_download_bytes_pilot_plus_v2": 53754703,
+  "accounted_mb": 112.44,
+  "note": "This is a conservative estimate from available ledgers, not a verified lifetime network total.",
+  "attempts": {
+    "new_crops": 4400,
+    "frames_processed": 739
+  },
+  "failed_frames": 0
+}

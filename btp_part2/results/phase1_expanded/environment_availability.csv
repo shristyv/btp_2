@@ -1,0 +1,13 @@
+source_split,value,count
+train,adverse,218
+train,dawn_dusk,141
+train,day_clear,617
+train,night,1117
+train,overcast,308
+train,unknown,279
+val,adverse,44
+val,dawn_dusk,44
+val,day_clear,105
+val,night,183
+val,overcast,64
+val,unknown,56

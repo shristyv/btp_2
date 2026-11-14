@@ -1,0 +1,19 @@
+source_split,value,count
+train,bike,289
+train,bus,385
+train,car,18949
+train,motor,92
+train,person,1911
+train,rider,120
+train,traffic light,1493
+train,traffic sign,3454
+train,truck,1096
+val,bike,40
+val,bus,60
+val,car,3563
+val,motor,21
+val,person,395
+val,rider,22
+val,traffic light,259
+val,traffic sign,630
+val,truck,233

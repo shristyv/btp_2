@@ -1,0 +1,8 @@
+source_split,value,count
+train,dawn/dusk,186
+train,daytime,1371
+train,night,1117
+train,undefined,6
+val,dawn/dusk,51
+val,daytime,262
+val,night,183

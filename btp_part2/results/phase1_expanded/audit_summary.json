@@ -1,0 +1,13 @@
+{
+  "cached_annotation_files": 3186,
+  "parsed_unique_frames": 3186,
+  "usable_frames": 3176,
+  "valid_boxes": 33012,
+  "usable_by_source_split": {
+    "train": 2680,
+    "val": 496
+  },
+  "skipped": {},
+  "box_min_side_px": 20,
+  "note": "Availability counts are from the cached sampled annotations, not the entire BDD100K dataset."
+}

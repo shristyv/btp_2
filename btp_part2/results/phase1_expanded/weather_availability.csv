@@ -1,0 +1,15 @@
+source_split,value,count
+train,clear,1444
+train,foggy,7
+train,overcast,344
+train,partly cloudy,194
+train,rainy,189
+train,snowy,202
+train,undefined,300
+val,clear,255
+val,foggy,1
+val,overcast,73
+val,partly cloudy,33
+val,rainy,40
+val,snowy,34
+val,undefined,60
