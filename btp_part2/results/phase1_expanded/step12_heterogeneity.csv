@@ -1,0 +1,13 @@
+strategy,client,n,class_jsd,environment_jsd,known_environment_jsd
+iid,client_1,801,0.000948,0.000114,7.1e-05
+iid,client_2,801,0.001422,0.000189,0.000186
+iid,client_3,798,0.001895,0.000126,0.00015
+iid,client_4,800,0.000656,0.00021,0.000248
+mild_non_iid,client_1,824,0.003239,0.439955,0.40065
+mild_non_iid,client_2,792,0.012883,0.466363,0.490321
+mild_non_iid,client_3,790,0.008134,0.430144,0.55187
+mild_non_iid,client_4,794,0.002687,0.297692,0.364546
+strong_non_iid,client_1,860,0.004154,0.476663,0.419294
+strong_non_iid,client_2,773,0.015034,0.502516,0.520701
+strong_non_iid,client_3,771,0.0081,0.506285,0.668497
+strong_non_iid,client_4,796,0.005633,0.436505,0.518628

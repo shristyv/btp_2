@@ -1,0 +1,39 @@
+{
+  "setup": "frozen pretrained ResNet18, trainable 9-class linear head, supervised labeled-only baseline",
+  "status": "SMOKE TEST ONLY",
+  "strategy": "iid",
+  "labeled_percent": "10",
+  "seed": 42,
+  "rounds": 2,
+  "local_epochs": 1,
+  "learning_rate": 0.03,
+  "training_samples": 320,
+  "validation_samples": 600,
+  "test_samples": 600,
+  "results": {
+    "centralized": {
+      "chosen_round": 2,
+      "best_val_macro_f1": 0.2612687470772155,
+      "test_metrics": {
+        "accuracy": 0.46166666666666667,
+        "macro_f1": 0.2925724312837427,
+        "balanced_accuracy": 0.32488364100122474
+      }
+    },
+    "fedavg": {
+      "chosen_round": 2,
+      "best_val_macro_f1": 0.1846603534013381,
+      "test_metrics": {
+        "accuracy": 0.335,
+        "macro_f1": 0.20861046989168378,
+        "balanced_accuracy": 0.25225824246079553
+      }
+    }
+  },
+  "caveats": [
+    "Class-balanced sampling means test prevalence is not natural BDD100K prevalence.",
+    "ImageNet pretraining uses external labeled data; disclose this transfer-learning assumption.",
+    "Centralized and FedAvg have different SGD batch schedules; match data and local epochs, not exact optimizer trajectories.",
+    "No semi-supervised training or unlabeled data access occurs in this baseline."
+  ]
+}

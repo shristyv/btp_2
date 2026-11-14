@@ -1,0 +1,27 @@
+{
+  "pass": true,
+  "label_budgets": {
+    "10": 320,
+    "20": 640
+  },
+  "strategy_metrics": {
+    "iid": {
+      "mean_class_jsd": 0.00123,
+      "mean_environment_jsd": 0.00016,
+      "mean_known_environment_jsd": 0.000164
+    },
+    "mild_non_iid": {
+      "mean_class_jsd": 0.006736,
+      "mean_environment_jsd": 0.408539,
+      "mean_known_environment_jsd": 0.451847
+    },
+    "strong_non_iid": {
+      "mean_class_jsd": 0.00823,
+      "mean_environment_jsd": 0.480492,
+      "mean_known_environment_jsd": 0.53178
+    }
+  },
+  "errors": [],
+  "warnings": [],
+  "interpretation": "JSD measures partition differences, not predictive model accuracy. Stronger JSD is not proof of model improvement."
+}

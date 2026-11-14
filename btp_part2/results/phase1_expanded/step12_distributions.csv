@@ -1,0 +1,181 @@
+strategy,client,field,category,count
+iid,client_1,class,bike,38
+iid,client_1,class,bus,67
+iid,client_1,class,car,182
+iid,client_1,class,motor,9
+iid,client_1,class,person,128
+iid,client_1,class,rider,8
+iid,client_1,class,traffic light,110
+iid,client_1,class,traffic sign,137
+iid,client_1,class,truck,122
+iid,client_1,environment,day_clear,196
+iid,client_1,environment,night,183
+iid,client_1,environment,adverse,102
+iid,client_1,environment,dawn_dusk,80
+iid,client_1,environment,overcast,108
+iid,client_1,environment,unknown,132
+iid,client_2,class,bike,26
+iid,client_2,class,bus,63
+iid,client_2,class,car,177
+iid,client_2,class,motor,12
+iid,client_2,class,person,116
+iid,client_2,class,rider,11
+iid,client_2,class,traffic light,130
+iid,client_2,class,traffic sign,145
+iid,client_2,class,truck,121
+iid,client_2,environment,day_clear,195
+iid,client_2,environment,night,186
+iid,client_2,environment,adverse,114
+iid,client_2,environment,dawn_dusk,76
+iid,client_2,environment,overcast,107
+iid,client_2,environment,unknown,123
+iid,client_3,class,bike,42
+iid,client_3,class,bus,51
+iid,client_3,class,car,163
+iid,client_3,class,motor,4
+iid,client_3,class,person,126
+iid,client_3,class,rider,16
+iid,client_3,class,traffic light,132
+iid,client_3,class,traffic sign,139
+iid,client_3,class,truck,125
+iid,client_3,environment,day_clear,192
+iid,client_3,environment,night,180
+iid,client_3,environment,adverse,105
+iid,client_3,environment,dawn_dusk,82
+iid,client_3,environment,overcast,113
+iid,client_3,environment,unknown,126
+iid,client_4,class,bike,36
+iid,client_4,class,bus,69
+iid,client_4,class,car,171
+iid,client_4,class,motor,4
+iid,client_4,class,person,121
+iid,client_4,class,rider,10
+iid,client_4,class,traffic light,120
+iid,client_4,class,traffic sign,144
+iid,client_4,class,truck,125
+iid,client_4,environment,day_clear,198
+iid,client_4,environment,night,191
+iid,client_4,environment,adverse,102
+iid,client_4,environment,dawn_dusk,71
+iid,client_4,environment,overcast,112
+iid,client_4,environment,unknown,126
+mild_non_iid,client_1,class,bike,23
+mild_non_iid,client_1,class,bus,79
+mild_non_iid,client_1,class,car,174
+mild_non_iid,client_1,class,motor,9
+mild_non_iid,client_1,class,person,115
+mild_non_iid,client_1,class,rider,10
+mild_non_iid,client_1,class,traffic light,118
+mild_non_iid,client_1,class,traffic sign,168
+mild_non_iid,client_1,class,truck,128
+mild_non_iid,client_1,environment,day_clear,685
+mild_non_iid,client_1,environment,night,0
+mild_non_iid,client_1,environment,adverse,0
+mild_non_iid,client_1,environment,dawn_dusk,133
+mild_non_iid,client_1,environment,overcast,0
+mild_non_iid,client_1,environment,unknown,6
+mild_non_iid,client_2,class,bike,47
+mild_non_iid,client_2,class,bus,47
+mild_non_iid,client_2,class,car,159
+mild_non_iid,client_2,class,motor,10
+mild_non_iid,client_2,class,person,139
+mild_non_iid,client_2,class,rider,14
+mild_non_iid,client_2,class,traffic light,176
+mild_non_iid,client_2,class,traffic sign,125
+mild_non_iid,client_2,class,truck,75
+mild_non_iid,client_2,environment,day_clear,0
+mild_non_iid,client_2,environment,night,740
+mild_non_iid,client_2,environment,adverse,0
+mild_non_iid,client_2,environment,dawn_dusk,11
+mild_non_iid,client_2,environment,overcast,0
+mild_non_iid,client_2,environment,unknown,41
+mild_non_iid,client_3,class,bike,35
+mild_non_iid,client_3,class,bus,65
+mild_non_iid,client_3,class,car,215
+mild_non_iid,client_3,class,motor,2
+mild_non_iid,client_3,class,person,117
+mild_non_iid,client_3,class,rider,8
+mild_non_iid,client_3,class,traffic light,84
+mild_non_iid,client_3,class,traffic sign,124
+mild_non_iid,client_3,class,truck,140
+mild_non_iid,client_3,environment,day_clear,0
+mild_non_iid,client_3,environment,night,0
+mild_non_iid,client_3,environment,adverse,423
+mild_non_iid,client_3,environment,dawn_dusk,81
+mild_non_iid,client_3,environment,overcast,0
+mild_non_iid,client_3,environment,unknown,286
+mild_non_iid,client_4,class,bike,37
+mild_non_iid,client_4,class,bus,59
+mild_non_iid,client_4,class,car,145
+mild_non_iid,client_4,class,motor,8
+mild_non_iid,client_4,class,person,120
+mild_non_iid,client_4,class,rider,13
+mild_non_iid,client_4,class,traffic light,114
+mild_non_iid,client_4,class,traffic sign,148
+mild_non_iid,client_4,class,truck,150
+mild_non_iid,client_4,environment,day_clear,96
+mild_non_iid,client_4,environment,night,0
+mild_non_iid,client_4,environment,adverse,0
+mild_non_iid,client_4,environment,dawn_dusk,84
+mild_non_iid,client_4,environment,overcast,440
+mild_non_iid,client_4,environment,unknown,174
+strong_non_iid,client_1,class,bike,23
+strong_non_iid,client_1,class,bus,87
+strong_non_iid,client_1,class,car,174
+strong_non_iid,client_1,class,motor,10
+strong_non_iid,client_1,class,person,119
+strong_non_iid,client_1,class,rider,13
+strong_non_iid,client_1,class,traffic light,121
+strong_non_iid,client_1,class,traffic sign,174
+strong_non_iid,client_1,class,truck,139
+strong_non_iid,client_1,environment,day_clear,781
+strong_non_iid,client_1,environment,night,0
+strong_non_iid,client_1,environment,adverse,0
+strong_non_iid,client_1,environment,dawn_dusk,79
+strong_non_iid,client_1,environment,overcast,0
+strong_non_iid,client_1,environment,unknown,0
+strong_non_iid,client_2,class,bike,48
+strong_non_iid,client_2,class,bus,47
+strong_non_iid,client_2,class,car,157
+strong_non_iid,client_2,class,motor,10
+strong_non_iid,client_2,class,person,137
+strong_non_iid,client_2,class,rider,13
+strong_non_iid,client_2,class,traffic light,176
+strong_non_iid,client_2,class,traffic sign,115
+strong_non_iid,client_2,class,truck,70
+strong_non_iid,client_2,environment,day_clear,0
+strong_non_iid,client_2,environment,night,740
+strong_non_iid,client_2,environment,adverse,0
+strong_non_iid,client_2,environment,dawn_dusk,0
+strong_non_iid,client_2,environment,overcast,0
+strong_non_iid,client_2,environment,unknown,33
+strong_non_iid,client_3,class,bike,46
+strong_non_iid,client_3,class,bus,71
+strong_non_iid,client_3,class,car,180
+strong_non_iid,client_3,class,motor,2
+strong_non_iid,client_3,class,person,137
+strong_non_iid,client_3,class,rider,8
+strong_non_iid,client_3,class,traffic light,78
+strong_non_iid,client_3,class,traffic sign,122
+strong_non_iid,client_3,class,truck,127
+strong_non_iid,client_3,environment,day_clear,0
+strong_non_iid,client_3,environment,night,0
+strong_non_iid,client_3,environment,adverse,423
+strong_non_iid,client_3,environment,dawn_dusk,0
+strong_non_iid,client_3,environment,overcast,0
+strong_non_iid,client_3,environment,unknown,348
+strong_non_iid,client_4,class,bike,25
+strong_non_iid,client_4,class,bus,45
+strong_non_iid,client_4,class,car,182
+strong_non_iid,client_4,class,motor,7
+strong_non_iid,client_4,class,person,98
+strong_non_iid,client_4,class,rider,11
+strong_non_iid,client_4,class,traffic light,117
+strong_non_iid,client_4,class,traffic sign,154
+strong_non_iid,client_4,class,truck,157
+strong_non_iid,client_4,environment,day_clear,0
+strong_non_iid,client_4,environment,night,0
+strong_non_iid,client_4,environment,adverse,0
+strong_non_iid,client_4,environment,dawn_dusk,230
+strong_non_iid,client_4,environment,overcast,440
+strong_non_iid,client_4,environment,unknown,126

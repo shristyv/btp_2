@@ -1,0 +1,86 @@
+{
+  "pass": true,
+  "crops": 4400,
+  "counts": {
+    "val": 600,
+    "test": 600,
+    "train": 3200
+  },
+  "source_frames": {
+    "train": 538,
+    "val": 100,
+    "test": 101
+  },
+  "class_counts": {
+    "train": {
+      "bike": 142,
+      "traffic light": 492,
+      "person": 491,
+      "truck": 493,
+      "traffic sign": 565,
+      "car": 693,
+      "bus": 250,
+      "rider": 45,
+      "motor": 29
+    },
+    "val": {
+      "motor": 48,
+      "rider": 60,
+      "bus": 59,
+      "person": 74,
+      "bike": 71,
+      "traffic light": 74,
+      "traffic sign": 74,
+      "car": 75,
+      "truck": 65
+    },
+    "test": {
+      "rider": 19,
+      "bike": 29,
+      "person": 89,
+      "motor": 21,
+      "bus": 47,
+      "traffic light": 90,
+      "car": 119,
+      "truck": 90,
+      "traffic sign": 96
+    }
+  },
+  "environment_counts": {
+    "train": {
+      "unknown": 507,
+      "adverse": 423,
+      "day_clear": 781,
+      "night": 740,
+      "overcast": 440,
+      "dawn_dusk": 309
+    },
+    "val": {
+      "unknown": 120,
+      "night": 90,
+      "overcast": 96,
+      "day_clear": 162,
+      "dawn_dusk": 60,
+      "adverse": 72
+    },
+    "test": {
+      "overcast": 88,
+      "unknown": 132,
+      "day_clear": 130,
+      "night": 112,
+      "adverse": 72,
+      "dawn_dusk": 66
+    }
+  },
+  "manifest_digest": "8732fd1aa758962086188897bd4634809096da27051cc896186f6b671da0fb83",
+  "errors": [],
+  "warnings": [
+    "train motor has 29 samples (<50); few-shot class",
+    "train rider has 45 samples (<50); few-shot class",
+    "test bike has 29 samples (<30); per-class estimates unstable",
+    "test motor has 21 samples (<30); per-class estimates unstable",
+    "test rider has 19 samples (<30); per-class estimates unstable",
+    "759 crops have unknown environment; unknown must not be used as a weather type",
+    "Class-aware selection changes class prevalence: report evaluation on this sampled distribution, not natural driving prevalence."
+  ]
+}
