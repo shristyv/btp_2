@@ -1,0 +1,39 @@
+{
+  "status": "validation-only development run",
+  "config": {
+    "root": "/Users/harshitatiwari/btp_2/btp_part2",
+    "strategy": "strong_non_iid",
+    "labels": "10",
+    "rounds": 30,
+    "local_epochs": 1,
+    "batch_size": 32,
+    "lr": 0.03,
+    "mu": 0.01,
+    "server_lr": 0.01,
+    "beta1": 0.9,
+    "beta2": 0.99,
+    "tau": 0.001,
+    "seed": 42,
+    "final_test": false
+  },
+  "training_labeled": 320,
+  "validation": 600,
+  "test_count": 600,
+  "time_seconds": 1.11,
+  "models": {
+    "fedavg": {
+      "best_val_macro_f1": 0.37695983560605306,
+      "selected_round": 29
+    },
+    "fedprox": {
+      "best_val_macro_f1": 0.37695983560605306,
+      "selected_round": 29
+    },
+    "fedadam": {
+      "best_val_macro_f1": 0.41438964356487473,
+      "selected_round": 30
+    }
+  },
+  "scope": "ImageNet-pretrained frozen ResNet18 embedding + linear 9-class head, labeled-only, four simulated clients",
+  "important": "Do not compare test metrics or tune from test. FedAdam has a separate server learning rate. Client data counts drive FedAvg weights."
+}
